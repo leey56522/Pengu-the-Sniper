@@ -10,8 +10,8 @@
 - This is a game built with Pygame, which can be installed via pip module
 
 ## Challenges I encountered
-1. The project was huge, so it was hard to organize the codes efficiently. Each aspect of the game, such as settings 
-2. Learning to use Pygame
+1. The project was huge, so it was hard to organize the codes efficiently. Taught me the importance of organizing the coding using classes for readability and reusability 
+2. Learning to use Pygame library. This is the first time I used a library, so I learned a lot about reading documentation and making module calls 
 
 ## Upcoming Changes
 1. Save highest score and initialize when the game starts
